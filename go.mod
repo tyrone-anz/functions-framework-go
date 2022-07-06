@@ -1,4 +1,4 @@
-module github.com/GoogleCloudPlatform/functions-framework-go
+module github.com/tyrone-anz/functions-framework-go
 
 go 1.11
 
