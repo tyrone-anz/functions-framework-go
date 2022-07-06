@@ -7,8 +7,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/GoogleCloudPlatform/functions-framework-go/internal/registry"
 	cloudevents "github.com/cloudevents/sdk-go/v2"
+	"github.com/tyrone-anz/functions-framework-go/internal/registry"
 )
 
 // HTTP registers an HTTP function that becomes the function handler served

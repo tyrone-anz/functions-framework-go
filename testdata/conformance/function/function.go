@@ -25,8 +25,8 @@ import (
 	"time"
 
 	"cloud.google.com/go/functions/metadata"
-	"github.com/GoogleCloudPlatform/functions-framework-go/functions"
 	cloudevents "github.com/cloudevents/sdk-go/v2"
+	"github.com/tyrone-anz/functions-framework-go/functions"
 )
 
 const (

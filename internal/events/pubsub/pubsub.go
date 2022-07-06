@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"cloud.google.com/go/functions/metadata"
-	"github.com/GoogleCloudPlatform/functions-framework-go/internal/fftypes"
+	"github.com/tyrone-anz/functions-framework-go/internal/fftypes"
 )
 
 const (
